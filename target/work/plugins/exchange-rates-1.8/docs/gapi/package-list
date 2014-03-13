@@ -1,0 +1,8 @@
+DefaultPackage
+grails-app.conf
+grails-app.controllers.org.grails.plugins.exchangerates
+grails-app.domain.org.grails.plugins.exchangerates
+grails-app.services.org.grails.plugins.exchangerates
+grails-app.taglib.org.grails.plugins.exchangerates
+scripts
+src.groovy.org.grails.plugins.exchangerates
